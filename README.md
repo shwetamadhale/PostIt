@@ -64,9 +64,6 @@ ArchiveApp/
 │── app/build.gradle             # Project dependencies
 ```
 
-## Contributing
-Contributions are welcome! Feel free to submit pull requests or open issues.
-
 ## License
 This project is licensed under the MIT License.
 
