@@ -1,5 +1,12 @@
 # ArchiveApp - Firebase-Based Note-Taking Application
 
+This is a Firebase-backed Android notes application written in Java, with email/password authentication and full CRUD on notes. It's structured as a standard single-module Gradle Android project (inside Archive/), uses Material Design components for the UI, and follows a simple one-activity-per-screen architecture. The root-level main/ and test/ folders are redundant copies and should be removed to avoid confusion.
+
+
+
+
+
+
 An Android note-taking application utilizing Firebase for authentication and Firestore for data storage.
 
 ## Table of Contents
