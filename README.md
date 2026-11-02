@@ -70,7 +70,3 @@ ArchiveApp/
 │── app/src/main/res/layout/     # UI layouts
 │── app/build.gradle             # Project dependencies
 ```
-
-## License
-This project is licensed under the MIT License.
-
